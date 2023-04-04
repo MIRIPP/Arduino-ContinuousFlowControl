@@ -2,7 +2,7 @@
 
 Arduino Temperature Control for Apple Juice Preservation
 
-##Project Description
+## Project Description
 
 This project involves building an Arduino-based system to regulate the temperature of an apple juice pump to 80°C to preserve the juice for a longer period. The system will include a temperature sensor, a pump, and an Arduino board to control the pump's speed based on the temperature reading.
 
