@@ -13,4 +13,7 @@ Next, the Arduino board will be programmed to read the temperature sensor and co
 The project will require knowledge of Arduino programming, electronics, and temperature sensing. The goal of this project is to create a system that effectively regulates the temperature of the apple juice to 80°C, thereby preserving the juice for a longer period and reducing waste.
 
 ##  Connection Diagram
-<img src="https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/doc/Connection%20Diagram.png?raw=true"/>
+<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram.png?raw=true height=300"/>
+
+### Triac
+<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram%20Triac.JPG?raw=true"/>
