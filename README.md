@@ -11,3 +11,6 @@ The project will begin by wiring the temperature sensor to the Arduino board and
 Next, the Arduino board will be programmed to read the temperature sensor and control the speed of the pump accordingly. When the temperature of the juice falls below 80°C, the Arduino board will increase the speed of the pump to heat the juice. When the temperature of the juice reaches 80°C, the Arduino board will reduce the speed of the pump to maintain the temperature.
 
 The project will require knowledge of Arduino programming, electronics, and temperature sensing. The goal of this project is to create a system that effectively regulates the temperature of the apple juice to 80°C, thereby preserving the juice for a longer period and reducing waste.
+
+##  Connection Diagram
+<img src="https://github.com/MIRIPP/LoopingLouieTurbo/blob/main/doc/Connection%20Diagram.png?raw=true"/>
