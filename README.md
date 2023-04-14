@@ -27,10 +27,10 @@ The project will require knowledge of Arduino programming, electronics, and temp
 - 1x LED blue
 
 ##  Connection Diagram
-<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram.png?raw=true height=300"/>
+<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram.png?raw=true" height=300 />
 
 ### Triac
-<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram%20Triac.JPG?raw=true height=50"/>
+<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram%20Triac.JPG?raw=true" height=50 />
 
 ## Getting Started
 1. Wire the Hardware
