@@ -12,8 +12,27 @@ Next, the Arduino board will be programmed to read the temperature sensor and co
 
 The project will require knowledge of Arduino programming, electronics, and temperature sensing. The goal of this project is to create a system that effectively regulates the temperature of the apple juice to 80°C, thereby preserving the juice for a longer period and reducing waste.
 
+
+## Hardware
+
+- Arduino (any type works)
+- Dimmer Module
+- 7x Resistor for LED
+- 5x Pull-Down Resistor 10 KOhm
+- 2x Switch
+- 1x Pushbutton
+- 3x Pote 1 KOhm
+- 4x LED green
+- 2x LED red
+- 1x LED blue
+
 ##  Connection Diagram
 <img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram.png?raw=true height=300"/>
 
 ### Triac
-<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram%20Triac.JPG?raw=true"/>
+<img src="https://github.com/MIRIPP/Arduino-ContinuousFlowControl/blob/main/Doc/Connection%20Diagram%20Triac.JPG?raw=true height=150"/>
+
+## Getting Started
+1. Wire the Hardware
+2. Upload the Arduino Software
+3. Use the start switch to run the flwo control
